@@ -47,7 +47,7 @@ class CheckoutPage extends Component {
       'shipping[town_city]': 'Vancouver',
       'shipping[region]': 'BC',
       'shipping[postal_zip_code]': 'V6B 2V2',
-      'shipping[country]': 'CA',
+      'shipping[country]': 'Australia',
       'billing[name]': '',
       'billing[street]': '',
       'billing[street_2]': '',
